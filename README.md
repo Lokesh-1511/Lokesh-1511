@@ -5,12 +5,7 @@
 <p align="left">I'm Lokesh R N and I'm a Second year student at MIT pursuing  Computer Science Engineering</p>
 
 ###
-
-<h2 align="left">About me</h2>
-
 ###
-
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Web Development and Game development<br>🎯 Goals: --To create an online clothing store website ,and a 2d platformer game</p>
 
 ###
 
