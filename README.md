@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Lokesh R N and I'm a Third year student at MIT pursuing  Computer Science Engineering</p>
+<p align="left">I'm Lokesh R N , a Third year student at MIT pursuing  Computer Science Engineering and I am learning various domains like web development (MERN) , App development t(flutter) and AI</p>
 
 ###
 ###
